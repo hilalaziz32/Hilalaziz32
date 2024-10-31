@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hilal Aziz</h1>
 <h3 align="center">I am excited about leveraging data to drive insights and make impactful decisions. My goal is to combine my technical expertise with a strong analytical mindset to solve real-world problems and contribute to advancements in AI and data science.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c2900cbf734aed2a59715460b4caa47a4535ea17098184c2a18294e814674d36/68747470733a2f2f632e74656e6f722e636f6d2f714a35657656732d5f755541414141432f636f64696e672e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hilalaziz32&label=Profile%20views&color=0e75b6&style=flat" alt="hilalaziz32" /> </p>
 
 - 🔭 I’m currently working on **Python, Java, SQL**
